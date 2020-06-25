@@ -1,0 +1,4 @@
+1. https://slides.com/tofergregg/lecture-01-introduction#/22
+2. O_EXCL when used with O_CREAT throws error if file already exits
+3. https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/
+4. How umask works https://youtu.be/JYT7y_Pe9wE (IMP)
